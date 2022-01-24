@@ -1,0 +1,15 @@
+/home/lautaro/DotNetCode/consoleTest/bin/Debug/net6.0/consoleTest
+/home/lautaro/DotNetCode/consoleTest/bin/Debug/net6.0/consoleTest.deps.json
+/home/lautaro/DotNetCode/consoleTest/bin/Debug/net6.0/consoleTest.runtimeconfig.json
+/home/lautaro/DotNetCode/consoleTest/bin/Debug/net6.0/consoleTest.dll
+/home/lautaro/DotNetCode/consoleTest/bin/Debug/net6.0/ref/consoleTest.dll
+/home/lautaro/DotNetCode/consoleTest/bin/Debug/net6.0/consoleTest.pdb
+/home/lautaro/DotNetCode/consoleTest/obj/Debug/net6.0/consoleTest.csproj.AssemblyReference.cache
+/home/lautaro/DotNetCode/consoleTest/obj/Debug/net6.0/consoleTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/lautaro/DotNetCode/consoleTest/obj/Debug/net6.0/consoleTest.AssemblyInfoInputs.cache
+/home/lautaro/DotNetCode/consoleTest/obj/Debug/net6.0/consoleTest.AssemblyInfo.cs
+/home/lautaro/DotNetCode/consoleTest/obj/Debug/net6.0/consoleTest.csproj.CoreCompileInputs.cache
+/home/lautaro/DotNetCode/consoleTest/obj/Debug/net6.0/consoleTest.dll
+/home/lautaro/DotNetCode/consoleTest/obj/Debug/net6.0/ref/consoleTest.dll
+/home/lautaro/DotNetCode/consoleTest/obj/Debug/net6.0/consoleTest.pdb
+/home/lautaro/DotNetCode/consoleTest/obj/Debug/net6.0/consoleTest.genruntimeconfig.cache
